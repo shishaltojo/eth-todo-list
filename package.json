@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "description": "Blockchain Todo List Powered By Ethereum",
   "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
   "repository": "git@github.com:alexalemanhdz/eth-todo-list.git",
   "author": "alex.aleman.public@gmail.com",
   "license": "ISC",
